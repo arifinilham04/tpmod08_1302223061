@@ -1,0 +1,5 @@
+D:\Semester 4\Kontruksi Perangkat Lunak\tpmod8_1302223061\tpmod8_1302223061\obj\Debug\net8.0\tpmod8_1302223061.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\Kontruksi Perangkat Lunak\tpmod8_1302223061\tpmod8_1302223061\obj\Debug\net8.0\tpmod8_1302223061.AssemblyInfoInputs.cache
+D:\Semester 4\Kontruksi Perangkat Lunak\tpmod8_1302223061\tpmod8_1302223061\obj\Debug\net8.0\tpmod8_1302223061.AssemblyInfo.cs
+D:\Semester 4\Kontruksi Perangkat Lunak\tpmod8_1302223061\tpmod8_1302223061\obj\Debug\net8.0\tpmod8_1302223061.csproj.CoreCompileInputs.cache
+D:\Semester 4\Kontruksi Perangkat Lunak\tpmod8_1302223061\tpmod8_1302223061\obj\Debug\net8.0\tpmod8_1302223061.sourcelink.json
